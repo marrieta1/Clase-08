@@ -1,15 +1,72 @@
-# Clase-08
-![Captura de pantalla 2024-09-25 111242](https://github.com/user-attachments/assets/a4060956-c4e8-4cdd-83bd-4c06445827f6)
-![Captura de pantalla 2024-09-25 111502](https://github.com/user-attachments/assets/f2fd3ebf-e594-4ef3-90a2-07120e56eb67)
-![Captura de pantalla 2024-09-25 111519](https://github.com/user-attachments/assets/8571829e-49b1-459b-8fac-0b43009851b5)
-![Captura de pantalla 2024-09-25 111322](https://github.com/user-attachments/assets/9971b4f1-8958-464c-b106-e6e561a86e21)
-![Captura de pantalla 2024-08-02 144623](https://github.com/user-attachments/assets/26da8e3a-3fbc-480d-b516-27ba2764d597)
-![Captura de pantalla 2024-08-02 144719](https://github.com/user-attachments/assets/bcf7765c-40ec-4d31-a588-472f1add34d7)
-![Captura de pantalla 2024-09-25 112047](https://github.com/user-attachments/assets/16874ed6-00fd-466c-860b-b19303996492)
-![Mesa de trabajo 1-100](https://github.com/user-attachments/assets/4662dc6e-ff5b-4299-a2fe-a2b9c603f600)
-![Mesa de trabajo 4-100](https://github.com/user-attachments/assets/6202c953-d2ea-41e5-b040-f04651ac167b)
-![Sin título](https://github.com/user-attachments/assets/e800ecd7-05a2-438d-b122-f1905679b3e4)
-![WhatsApp Image 2024-09-25 at 12 06 00](https://github.com/user-attachments/assets/e501559d-b0eb-4aa3-a0f4-552c3c8542cd)
-![polera SRC](https://github.com/user-attachments/assets/697fa7bd-0bf2-4a9e-bfa1-a9873f5f3d26)
-![kitu](https://github.com/user-attachments/assets/ffc44f0f-0b05-4b40-a0be-e0dac4e0befc)
-![Negro@3x-100](https://github.com/user-attachments/assets/80271e43-be66-4924-8655-29a58a16ed3f)
+[
+    {
+        "nombre": "Logo XFood",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/4662dc6e-ff5b-4299-a2fe-a2b9c603f600",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Kitu",
+        "fecha": "2022",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/ffc44f0f-0b05-4b40-a0be-e0dac4e0befc",
+        "github": "https://github.com/dyubow"
+    },
+    {
+        "nombre": "Minutare",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/9971b4f1-8958-464c-b106-e6e561a86e21",
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Guitarra",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/a4060956-c4e8-4cdd-83bd-4c06445827f6g",
+        "github": "https://github.com/angelafernandezs"
+    },
+    {
+        "nombre": "Daff",
+        "fecha": "2001-09-21",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/26da8e3a-3fbc-480d-b516-27ba2764d597",
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "Poleras SRC",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/697fa7bd-0bf2-4a9e-bfa1-a9873f5f3d26",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Logo Breezy",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/80271e43-be66-4924-8655-29a58a16ed3f",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Auto CADCAM",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://apod.nasa.gov/apod/image/9809/clusters_hst.jpg",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "Manual manejo emocional",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg",
+        "github": "https://github.com/nandaamc"
+    },
+    {
+        "nombre": "Isotipos",
+        "fecha": "2001-02-16",
+        "signo": "acuario",
+        "foto": "https://github.com/user-attachments/assets/e501559d-b0eb-4aa3-a0f4-552c3c8542cd",
+        "github": "https://github.com/kimccartney"
+    }
+]
