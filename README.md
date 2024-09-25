@@ -10,3 +10,6 @@
 ![Mesa de trabajo 4-100](https://github.com/user-attachments/assets/6202c953-d2ea-41e5-b040-f04651ac167b)
 ![Sin título](https://github.com/user-attachments/assets/e800ecd7-05a2-438d-b122-f1905679b3e4)
 ![WhatsApp Image 2024-09-25 at 12 06 00](https://github.com/user-attachments/assets/e501559d-b0eb-4aa3-a0f4-552c3c8542cd)
+![polera SRC](https://github.com/user-attachments/assets/697fa7bd-0bf2-4a9e-bfa1-a9873f5f3d26)
+![kitu](https://github.com/user-attachments/assets/ffc44f0f-0b05-4b40-a0be-e0dac4e0befc)
+![Negro@3x-100](https://github.com/user-attachments/assets/80271e43-be66-4924-8655-29a58a16ed3f)
