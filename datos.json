@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Logo XFood",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/4662dc6e-ff5b-4299-a2fe-a2b9c603f600",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Kitu",
+        "fecha": "2022",
+        "signo": "servicio",
+        "foto": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst.jpg",
+        "github": "https://github.com/dyubow"
+    },
+    {
+        "nombre": "Minutare",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/9971b4f1-8958-464c-b106-e6e561a86e21",
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Guitarra",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/a4060956-c4e8-4cdd-83bd-4c06445827f6g",
+        "github": "https://github.com/angelafernandezs"
+    },
+    {
+        "nombre": "Daff",
+        "fecha": "2001-09-21",
+        "signo": "servicio",
+        "foto": "https://github.com/user-attachments/assets/26da8e3a-3fbc-480d-b516-27ba2764d597",
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "Poleras SRC",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://apod.nasa.gov/apod/image/0108/perseids97_rickjoe.jpg",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Logo Breezy",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://apod.nasa.gov/apod/image/9803/dustdt_apollo17.jpg",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Auto CADCAM",
+        "fecha": "2024",
+        "signo": "industrial",
+        "foto": "https://apod.nasa.gov/apod/image/9809/clusters_hst.jpg",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "Manual manejo emocional",
+        "fecha": "2024",
+        "signo": "servicio",
+        "foto": "https://apod.nasa.gov/apod/image/1009/carinablue_hst.jpg",
+        "github": "https://github.com/nandaamc"
+    },
+    {
+        "nombre": "Isotipos",
+        "fecha": "2001-02-16",
+        "signo": "acuario",
+        "foto": "https://github.com/user-attachments/assets/e501559d-b0eb-4aa3-a0f4-552c3c8542cd",
+        "github": "https://github.com/kimccartney"
+    }
+]
